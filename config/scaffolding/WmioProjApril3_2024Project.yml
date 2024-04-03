@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: WmioProjApril3_2024Project
+  gitServerName: wmioProjApril3_2024
+  gitUrl: https://github.com/panditrashmi/WmioProjApril3_2024Project
+  gitUsername: panditrashmi
+  gitBranch: main
